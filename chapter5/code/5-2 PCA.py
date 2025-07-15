@@ -47,4 +47,4 @@ pca.components_.T,
 columns=['PC1', 'PC2'],
 index=iris_scaled.columns)
 print("\nPC1 主要载荷特征：\n", loadings['PC1'].abs().nlargest(5))
-49. print("\nPC2 主要载荷特征：\n", loadings['PC2'].abs().nlargest(5))
+print("\nPC2 主要载荷特征：\n", loadings['PC2'].abs().nlargest(5))
