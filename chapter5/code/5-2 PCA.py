@@ -10,7 +10,7 @@ from matplotlib.patches import Ellipse
 # 1. 数据加载与预处理
 iris = load_iris()
 iris_df = pd.DataFrame(iris.data, columns=iris.feature_names)
-iris_scaled = pd.DataFrame(StandardScaler().fit_transform(df), columns=df.columns)
+iris_scaled = pd.DataFrame(StandardScaler().fit_transform(iris_df), columns=iris_df.columns)
 species_names = iris.target_names
 
 # 2. PCA降维
