@@ -13,7 +13,7 @@ def restore(u, s, v, K):
     a = a.clip(0, 255)
     return np.rint(a).astype('uint8')
 # 2.读取图像
-A = np.array(Image.open("./svd.jpg", 'r'))
+A = np.array(Image.open("../data/svd.jpg", 'r'))
 # 3.对RGB图像进行奇异值分解
 u_r, s_r, v_r = np.linalg.svd(A[:, :, 0])    
 u_g, s_g, v_g = np.linalg.svd(A[:, :, 1])
