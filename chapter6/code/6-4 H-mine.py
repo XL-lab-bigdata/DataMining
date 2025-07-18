@@ -1,10 +1,20 @@
+import zipfile
+import contextlib
+
 import pandas as pd
 import ast
 from mlxtend.preprocessing import TransactionEncoder
 from mlxtend.frequent_patterns import hmine
 from mlxtend.frequent_patterns import association_rules
+
 # 1.数据导入
-data = pd.read_parquet('../data/kosarak.parquet')
+zip_file_path = "../data/kosarak.zip"
+with zipfile.ZipFile(zip_file_path) as zip_file:
+    parquet_file_path = zip_file.namelist()[0]
+    with contextlib.ExitStack() as stack:
+        unzipped_child = stack.enter_context(zip_file.open(parquet_file_path))
+        data = pd.read_parquet(unzipped_child)
+
 retrieved_data = [ast.literal_eval(row) for row in data['data']]
 # 2.数据热编码，并使用稀疏表示
 te = TransactionEncoder()
