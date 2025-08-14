@@ -1,8 +1,3 @@
-# DataMining
-
-1. 因部分数据集过大无法上传至 GitHub，我们已将其由 .csv 转换为 .parquet 格式，数据内容不变，并同步更新了相关代码。
-2. 本书所有代码均为“独立脚本(independent script)”，不做“可引入模块(importable module)”使用，脚本名与书籍章节编号保持一致。若需复用部分代码，请按 pep 8 要求自行更改文件名。
-
 # 书稿配图
 
 <!-- 第一行：二张图片 -->
@@ -70,3 +65,20 @@
 </p>
 
 # 购买链接
+
+<!-- 第一行：二张图片 -->
+<p align="center">
+  <img src="images/links/1.jpg" width="30%" title="" alt="图片1">
+  <img src="images/links/2.jpg" width="30%" title="" alt="图片2">
+</p>
+
+<p align="center">
+  <b></b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b></b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b></b>
+</p>
+
+# 注意事项
+
+1. 因部分数据集过大无法上传至 GitHub，我们已将其由 .csv 转换为 .parquet 格式，数据内容不变，并同步更新了相关代码。
+2. 本书所有代码均为“独立脚本(independent script)”，不做“可引入模块(importable module)”使用，脚本名与书籍章节编号保持一致。若需复用部分代码，请按 pep 8 要求自行更改文件名。
