@@ -24,29 +24,6 @@
   <b></b>
 </p>
 
-|          |          |          |
-|----------|----------|----------|
-| ![图1描述](images/illustrations/1.jpg) <br> **图1标题** | ![图2描述](images/illustrations/2.jpg) <br> **图2标题** | ![图3描述](images/illustrations/3.jpg) <br> **图3标题** |
-| ![图4描述](图片4.jpg) <br> **图4标题** | ![图5描述](图片5.jpg) <br> **图5标题** | ![图6描述](图片6.jpg) <br> **图6标题** |
-
-<style>
-    img {
-        max-height: 200px;
-        max-width: 100%;
-        border-radius: 8px;
-        box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-        margin: 10px 0;
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-    }
-    table {
-        width: 100%;
-        text-align: center;
-        border-collapse: separate;
-        border-spacing: 15px;
-    }
-</style>
 
 # 相关资源
 
