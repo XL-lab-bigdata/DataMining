@@ -5,8 +5,6 @@
 
 # 书稿配图
 
-| 第一行 |        |        |
-|--------|--------|--------|
 | ![图片1](images/illustrations/1.jpg) <div align="center">**标题1**</div> | ![图片2](images/illustrations/2.jpg) <div align="center">**标题2**</div> | ![图片3](images/illustrations/3.jpg) <div align="center">**标题3**</div> |
 
 <br>
