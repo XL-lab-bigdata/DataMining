@@ -66,9 +66,19 @@
 
 # 购买链接
 
-<!-- 第一行：二张图片 -->
+<!-- 第一行 -->
 <p align="center">
   <img src="images/links/1.jpg" width="30%" title="" alt="图片1">
+</p>
+
+<p align="center">
+  <b></b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b></b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b></b>
+</p>
+
+<!-- 第二行 -->
+<p align="center">
   <img src="images/links/2.jpg" width="30%" title="" alt="图片2">
 </p>
 
