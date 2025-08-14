@@ -5,18 +5,6 @@
 
 # 书稿配图
 
-|        |        |        |
-|--------|--------|--------|
-| ![](images/illustrations/1.jpg) <div align="center"></div> | ![](images/illustrations/2.jpg) <div align="center"></div> | ![](images/illustrations/3.jpg) <div align="center"></div> |
-
-<br>
-
-| 第二行 |        |        |
-|--------|--------|--------|
-| ![图片4](img4.jpg) <div align="center">**标题4**</div> | ![图片5](img5.jpg) <div align="center">**标题5**</div> | ![图片6](img6.jpg) <div align="center">**标题6**</div> |
-
-# 相关资源
-
 <!-- 第一行：三张图片 -->
 <p align="center">
   <img src="images/illustrations/1.jpg" width="30%" title="" alt="图片1">
@@ -32,15 +20,19 @@
 
 <!-- 第二行：三张图片 -->
 <p align="center">
-  <img src="图片4.jpg" width="30%" title="标题4" alt="图片4">
-  <img src="图片5.jpg" width="30%" title="标题5" alt="图片5">
-  <img src="图片6.jpg" width="30%" title="标题6" alt="图片6">
+  <img src="images/illustrations/14.jpg" width="30%" title="" alt="图片4">
+  <img src="images/illustrations/15.jpg" width="30%" title="" alt="图片5">
+  <img src="images/illustrations/16.jpg" width="30%" title="" alt="图片6">
 </p>
 
 <p align="center">
-  <b>标题4</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>标题5</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>标题6</b>
+  <b></b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b></b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b></b>
 </p>
+
+
+# 相关资源
+
 
 # 购买链接
