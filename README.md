@@ -29,20 +29,10 @@
   <b></b>
 </p>
 
-<!-- 第三行：二张图片 -->
-<p align="center">
-  <img src="images/illustrations/5.jpg" width="30%" title="" alt="图片5">
-</p>
-
-<p align="center">
-  <b></b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b></b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b></b>
-</p>
 
 # 相关资源
 
-<!-- 第二行：二张图片 -->
+<!-- 第二行 -->
 <p align="center">
   <img src="images/covers/4.jpg" width="30%" title="" alt="图片4">
 </p>
@@ -53,22 +43,11 @@
   <b></b>
 </p>
 
-<!-- 第三行：二张图片 -->
+<!-- 第三行 -->
 <p align="center">
   <img src="images/covers/5.jpg" width="30%" title="" alt="图片5">
   <img src="images/covers/6.jpg" width="30%" title="" alt="图片6">
-</p>
-
-<p align="center">
-  <b></b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b></b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b></b>
-</p>
-
-<!-- 第四行：二张图片 -->
-<p align="center">
   <img src="images/covers/7.jpg" width="30%" title="" alt="图片7">
-  <img src="images/covers/8.jpg" width="30%" title="" alt="图片8">
 </p>
 
 <p align="center">
@@ -77,8 +56,9 @@
   <b></b>
 </p>
 
-<!-- 第五行：二张图片 -->
+<!-- 第四行 -->
 <p align="center">
+  <img src="images/covers/8.jpg" width="30%" title="" alt="图片8">
   <img src="images/covers/9.jpg" width="30%" title="" alt="图片9">
   <img src="images/covers/10.jpg" width="30%" title="" alt="图片10">
 </p>
