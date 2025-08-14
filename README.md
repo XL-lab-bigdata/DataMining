@@ -8,7 +8,7 @@
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 30px 0;">
     <!-- 第一行图片 -->
     <div style="width: 30%;">
-        ![图片描述1](图片1.jpg)  
+        ![xxx](images/illustrations/1.jpg)  
         <div style="text-align: center; font-weight: bold; margin-top: 8px;">图片标题 1</div>
     </div>
     
