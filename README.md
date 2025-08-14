@@ -22,7 +22,6 @@
 <p align="center">
   <img src="images/illustrations/4.jpg" width="30%" title="" alt="图片4">
   <img src="images/illustrations/5.jpg" width="30%" title="" alt="图片5">
-#  <img src="images/illustrations/6.jpg" width="30%" title="" alt="图片6">
 </p>
 
 <p align="center">
