@@ -5,40 +5,15 @@
 
 # 书稿配图
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 30px 0;">
-    <!-- 第一行图片 -->
-    <div style="width: 30%;">
-        ![xxx](images/illustrations/1.jpg)  
-        <div style="text-align: center; font-weight: bold; margin-top: 8px;">图片标题 1</div>
-    </div>
-    
-    <div style="width: 30%;">
-        ![图片描述2](图片2.jpg)  
-        <div style="text-align: center; font-weight: bold; margin-top: 8px;">图片标题 2</div>
-    </div>
-    
-    <div style="width: 30%;">
-        ![图片描述3](图片3.jpg)  
-        <div style="text-align: center; font-weight: bold; margin-top: 8px;">图片标题 3</div>
-    </div>
-    
-    <!-- 第二行图片 -->
-    <div style="width: 30%; margin-top: 30px;">
-        ![图片描述4](图片4.jpg)  
-        <div style="text-align: center; font-weight: bold; margin-top: 8px;">图片标题 4</div>
-    </div>
-    
-    <div style="width: 30%; margin-top: 30px;">
-        ![图片描述5](图片5.jpg)  
-        <div style="text-align: center; font-weight: bold; margin-top: 8px;">图片标题 5</div>
-    </div>
-    
-    <div style="width: 30%; margin-top: 30px;">
-        ![图片描述6](图片6.jpg)  
-        <div style="text-align: center; font-weight: bold; margin-top: 8px;">图片标题 6</div>
-    </div>
-</div>
+| 第一行 |        |        |
+|--------|--------|--------|
+| ![图片1](images/illustrations/1.jpg) <div align="center">**标题1**</div> | ![图片2](images/illustrations/2.jpg) <div align="center">**标题2**</div> | ![图片3](images/illustrations/3.jpg) <div align="center">**标题3**</div> |
 
+<br>
+
+| 第二行 |        |        |
+|--------|--------|--------|
+| ![图片4](img4.jpg) <div align="center">**标题4**</div> | ![图片5](img5.jpg) <div align="center">**标题5**</div> | ![图片6](img6.jpg) <div align="center">**标题6**</div> |
 
 # 相关资源
 
