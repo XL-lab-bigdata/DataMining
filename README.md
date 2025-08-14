@@ -7,7 +7,7 @@
 
 |        |        |        |
 |--------|--------|--------|
-| ![](images/illustrations/1.jpg) <div align="center">** **</div> | ![](images/illustrations/2.jpg) <div align="center">** **</div> | ![](images/illustrations/3.jpg) <div align="center">** **</div> |
+| ![](images/illustrations/1.jpg) <div align="center"></div> | ![](images/illustrations/2.jpg) <div align="center"></div> | ![](images/illustrations/3.jpg) <div align="center"></div> |
 
 <br>
 
