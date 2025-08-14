@@ -6,6 +6,7 @@
 # 书稿配图
 
 |        |        |        |
+|--------|--------|--------|
 | ![](images/illustrations/1.jpg) <div align="center">**标题1**</div> | ![](images/illustrations/2.jpg) <div align="center">**标题2**</div> | ![](images/illustrations/3.jpg) <div align="center">**标题3**</div> |
 
 <br>
