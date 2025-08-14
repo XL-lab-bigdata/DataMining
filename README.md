@@ -19,9 +19,9 @@
 
 <!-- 第一行：三张图片 -->
 <p align="center">
-  <img src="images/illustrations/1.jpg" width="30%" title="标题1" alt="图片1">
-  <img src="images/illustrations/2.jpg" width="30%" title="标题2" alt="图片2">
-  <img src="images/illustrations/3.jpg" width="30%" title="标题3" alt="图片3">
+  <img src="images/illustrations/1.jpg" width="30%" title="" alt="图片1">
+  <img src="images/illustrations/2.jpg" width="30%" title="" alt="图片2">
+  <img src="images/illustrations/3.jpg" width="30%" title="" alt="图片3">
 </p>
 
 <p align="center">
