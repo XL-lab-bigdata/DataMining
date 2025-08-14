@@ -17,6 +17,30 @@
 
 # 相关资源
 
+<!-- 第一行：三张图片 -->
+<p align="center">
+  <img src="images/illustrations/1.jpg" width="30%" title="标题1" alt="图片1">
+  <img src="images/illustrations/2.jpg" width="30%" title="标题2" alt="图片2">
+  <img src="images/illustrations/3.jpg" width="30%" title="标题3" alt="图片3">
+</p>
 
+<p align="center">
+  <b>标题1</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>标题2</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>标题3</b>
+</p>
+
+<!-- 第二行：三张图片 -->
+<p align="center">
+  <img src="图片4.jpg" width="30%" title="标题4" alt="图片4">
+  <img src="图片5.jpg" width="30%" title="标题5" alt="图片5">
+  <img src="图片6.jpg" width="30%" title="标题6" alt="图片6">
+</p>
+
+<p align="center">
+  <b>标题4</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>标题5</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>标题6</b>
+</p>
 
 # 购买链接
