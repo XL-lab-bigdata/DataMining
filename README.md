@@ -32,7 +32,7 @@
     </div>
     
     <div style="flex-basis: 30%; margin-bottom: 20px; text-align: center;">
-        <img src="图片2.jpg" alt="描述2" style="max-width: 100%; max-height: 200px; object-fit: contain; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+        <img src="images/illustrations/2.jpg" alt="描述2" style="max-width: 100%; max-height: 200px; object-fit: contain; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
         <p style="margin-top: 8px; font-size: 14px; font-weight: bold;">图2标题</p>
     </div>
     
