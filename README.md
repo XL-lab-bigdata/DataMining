@@ -24,6 +24,39 @@
   <b></b>
 </p>
 
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around; align-items: center; margin-top: 30px; margin-bottom: 30px;">
+    <!-- 第一行 - 3张图片 -->
+    <div style="flex-basis: 30%; margin-bottom: 20px; text-align: center;">
+        <img src="images/illustrations/1.jpg" alt="描述1" style="max-width: 100%; max-height: 200px; object-fit: contain; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+        <p style="margin-top: 8px; font-size: 14px; font-weight: bold;">图1标题</p>
+    </div>
+    
+    <div style="flex-basis: 30%; margin-bottom: 20px; text-align: center;">
+        <img src="图片2.jpg" alt="描述2" style="max-width: 100%; max-height: 200px; object-fit: contain; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+        <p style="margin-top: 8px; font-size: 14px; font-weight: bold;">图2标题</p>
+    </div>
+    
+    <div style="flex-basis: 30%; margin-bottom: 20px; text-align: center;">
+        <img src="图片3.jpg" alt="描述3" style="max-width: 100%; max-height: 200px; object-fit: contain; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+        <p style="margin-top: 8px; font-size: 14px; font-weight: bold;">图3标题</p>
+    </div>
+    
+    <!-- 第二行 - 3张图片 -->
+    <div style="flex-basis: 30%; text-align: center;">
+        <img src="图片4.jpg" alt="描述4" style="max-width: 100%; max-height: 200px; object-fit: contain; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+        <p style="margin-top: 8px; font-size: 14px; font-weight: bold;">图4标题</p>
+    </div>
+    
+    <div style="flex-basis: 30%; text-align: center;">
+        <img src="图片5.jpg" alt="描述5" style="max-width: 100%; max-height: 200px; object-fit: contain; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+        <p style="margin-top: 8px; font-size: 14px; font-weight: bold;">图5标题</p>
+    </div>
+    
+    <div style="flex-basis: 30%; text-align: center;">
+        <img src="图片6.jpg" alt="描述6" style="max-width: 100%; max-height: 200px; object-fit: contain; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+        <p style="margin-top: 8px; font-size: 14px; font-weight: bold;">图6标题</p>
+    </div>
+</div>
 
 # 相关资源
 
