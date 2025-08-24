@@ -87,19 +87,11 @@
 
 # 购买链接
 
+## 📑相关评价
 ![1](images/links/1.jpg)
 
-<!-- 第一行 -->
-<p align="center">
-  <img src="images/links/1.jpg" width="30%" title="" alt="图片1">
-  <img src="images/links/3.jpg" width="30%" title="" alt="图片3">
-</p>
-
-<p align="center">
-  <b></b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b></b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b></b>
-</p>
+## 🔖京东链接
+![3](images/links/3.jpg)
 
 # 注意事项
 
