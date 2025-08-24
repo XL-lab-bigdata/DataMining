@@ -12,21 +12,31 @@
 
 在讲解每一个算法时，本书注重算法的原理剖析，力求以深入浅出的方式讲解复杂的数学推导与算法设计，使读者不仅知其然,更知其所以然。
 
+![5](images/illustrations/5.jpg)
+
 ## 实践案例丰富
 
 理论与实践相结合是本书的一大特色。本书精心挑选45个实践案例，读者能够更好地理解如何将所学知识应用到真实的数据分析任务中，增强实际操作能力。
+
+![4](images/illustrations/4.jpg)
 
 ## 辅助元素多样
 
 为了帮助读者更好地理解和掌握内容，本书配有大量图表、代码示例以及算法步骤、延伸阅读、注意事项、扩展说明、计算实例5种积木块，多样化的辅助元素使得学习过程更加直观和有趣。
 
+![3](images/illustrations/3.jpg)
+
 ## 知识总结全面
 
 本书每一章的末尾均提供了知识总结清单帮助读者梳理。
 
+![2](images/illustrations/2.jpg)
+
 ## 随书资源丰富
 
 除了书中的内容，本书还提供了丰富的线上资源，包括数据集、代码集、课后习题，使读者能够更灵活地进行自学和拓展。
+
+![1](images/illustrations/1.jpg)
 
 ## 教辅资料齐全
 
@@ -35,31 +45,6 @@
 ## 学习交流平台
 
 本书在使用过程中积累了大量高质量反馈数据，包括读者记录的学习过程，对公式、算法的理解和解读，开展的编程实践，以及参阅的其他资料等，这些内容都以Markdown文档的形式发布在https://github.com/XL-lab-bigdata/DataMining.git上，以供读者广泛参考,提高学习效率。
-
-<!-- 第一行：二张图片 -->
-<p align="center">
-  <img src="images/illustrations/1.jpg" width="30%" title="" alt="图片1">
-  <img src="images/illustrations/2.jpg" width="30%" title="" alt="图片2">
-</p>
-
-<p align="center">
-  <b></b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b></b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b></b>
-</p>
-
-<!-- 第二行：二张图片 -->
-<p align="center">
-  <img src="images/illustrations/3.jpg" width="30%" title="" alt="图片3">
-  <img src="images/illustrations/4.jpg" width="30%" title="" alt="图片4">
-</p>
-
-<p align="center">
-  <b></b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b></b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b></b>
-</p>
-
 
 # 相关资源
 
