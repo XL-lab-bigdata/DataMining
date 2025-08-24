@@ -87,13 +87,13 @@
 
 # 购买链接
 
-## 📑相关评价
-![1](images/links/1.jpg)
-
 ## 🔖京东链接
 <p align="center">
   <img src="images/links/3.jpg" alt="3" />
 </p>
+
+## 📑相关评价
+![1](images/links/1.jpg)
 
 
 # 注意事项
