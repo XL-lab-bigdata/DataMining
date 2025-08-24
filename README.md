@@ -91,8 +91,6 @@
 ![1](images/links/1.jpg)
 
 ## 🔖京东链接
-![3](images/links/3.jpg)
-
 <p align="center">
   <img src="images/links/3.jpg" alt="3" />
 </p>
