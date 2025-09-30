@@ -88,7 +88,7 @@
 # 购买链接
 
 <p align="center">
-  <img src="images/links/3.jpg" alt="3" />
+  <img src="images/links/3.jpg" alt="3" width="50%" />
 </p>
 
 ## 📑相关评价
