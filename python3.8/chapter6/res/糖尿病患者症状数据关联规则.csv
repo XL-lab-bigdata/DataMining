@@ -1,0 +1,69 @@
+﻿antecedents,consequents,support,confidence,lift
+frozenset({'female'}),frozenset({'diabete'}),0.332692308,0.901041667,1.464192708
+frozenset({'sudden_weight_loss'}),frozenset({'diabete'}),0.361538462,0.866359447,1.407834101
+frozenset({'polyuria'}),frozenset({'diabete'}),0.467307692,0.941860465,1.530523256
+frozenset({'polydipsia'}),frozenset({'diabete'}),0.432692308,0.965665236,1.569206009
+frozenset({'polydipsia'}),frozenset({'polyuria'}),0.371153846,0.82832618,1.669494627
+frozenset({'partial_paresis'}),frozenset({'diabete'}),0.369230769,0.857142857,1.392857143
+frozenset({'alopecia'}),frozenset({'male'}),0.292307692,0.849162011,1.346232457
+"frozenset({'sudden_weight_loss', 'polydipsia'})",frozenset({'diabete'}),0.280769231,0.979865772,1.592281879
+"frozenset({'sudden_weight_loss', 'polydipsia'})",frozenset({'polyuria'}),0.251923077,0.879194631,1.772020186
+"frozenset({'polyuria', 'sudden_weight_loss'})",frozenset({'diabete'}),0.309615385,0.975757576,1.585606061
+"frozenset({'sudden_weight_loss', 'diabete'})",frozenset({'polyuria'}),0.309615385,0.856382979,1.726043213
+"frozenset({'sudden_weight_loss', 'weakness'})",frozenset({'diabete'}),0.284615385,0.90797546,1.475460123
+"frozenset({'polydipsia', 'old'})",frozenset({'diabete'}),0.276923077,0.966442953,1.570469799
+"frozenset({'polydipsia', 'diabete'})",frozenset({'polyuria'}),0.371153846,0.857777778,1.728854436
+"frozenset({'polyuria', 'polydipsia'})",frozenset({'diabete'}),0.371153846,1,1.625
+frozenset({'polydipsia'}),"frozenset({'polyuria', 'diabete'})",0.371153846,0.82832618,1.772549851
+"frozenset({'polyphagia', 'polydipsia'})",frozenset({'diabete'}),0.280769231,0.993197279,1.613945578
+"frozenset({'visual_blurring', 'polydipsia'})",frozenset({'diabete'}),0.269230769,0.952380952,1.547619048
+"frozenset({'weakness', 'diabete'})",frozenset({'polydipsia'}),0.336538462,0.802752294,1.791550183
+"frozenset({'weakness', 'polydipsia'})",frozenset({'diabete'}),0.336538462,0.977653631,1.588687151
+"frozenset({'partial_paresis', 'polydipsia'})",frozenset({'diabete'}),0.294230769,0.974522293,1.583598726
+"frozenset({'polyphagia', 'polydipsia'})",frozenset({'polyuria'}),0.25,0.884353741,1.782418394
+"frozenset({'polyuria', 'weakness'})",frozenset({'polydipsia'}),0.298076923,0.837837838,1.869852685
+"frozenset({'polyuria', 'polydipsia'})",frozenset({'weakness'}),0.298076923,0.803108808,1.36923469
+"frozenset({'weakness', 'polydipsia'})",frozenset({'polyuria'}),0.298076923,0.865921788,1.745268719
+"frozenset({'polyuria', 'partial_paresis'})",frozenset({'polydipsia'}),0.269230769,0.833333333,1.859799714
+"frozenset({'partial_paresis', 'polydipsia'})",frozenset({'polyuria'}),0.269230769,0.891719745,1.797264603
+"frozenset({'weakness', 'partial_paresis'})",frozenset({'polydipsia'}),0.259615385,0.813253012,1.814985263
+"frozenset({'partial_paresis', 'polydipsia'})",frozenset({'weakness'}),0.259615385,0.859872611,1.466012321
+"frozenset({'polyuria', 'old'})",frozenset({'diabete'}),0.294230769,0.932926829,1.516006098
+"frozenset({'polyuria', 'polyphagia'})",frozenset({'diabete'}),0.3,0.939759036,1.527108434
+"frozenset({'polyphagia', 'diabete'})",frozenset({'polyuria'}),0.3,0.825396825,1.663590501
+"frozenset({'polyuria', 'visual_blurring'})",frozenset({'diabete'}),0.259615385,0.924657534,1.502568493
+"frozenset({'polyuria', 'weakness'})",frozenset({'diabete'}),0.342307692,0.962162162,1.563513514
+"frozenset({'weakness', 'diabete'})",frozenset({'polyuria'}),0.342307692,0.816513761,1.645686651
+"frozenset({'polyuria', 'partial_paresis'})",frozenset({'diabete'}),0.309615385,0.958333333,1.557291667
+"frozenset({'partial_paresis', 'diabete'})",frozenset({'polyuria'}),0.309615385,0.838541667,1.690083979
+"frozenset({'polyphagia', 'weakness'})",frozenset({'diabete'}),0.267307692,0.858024691,1.394290123
+"frozenset({'polyphagia', 'partial_paresis'})",frozenset({'diabete'}),0.257692308,0.893333333,1.451666667
+"frozenset({'weakness', 'partial_paresis'})",frozenset({'diabete'}),0.282692308,0.885542169,1.439006024
+"frozenset({'delayed_healing', 'itching'})",frozenset({'weakness'}),0.273076923,0.811428571,1.383419204
+"frozenset({'polyuria', 'sudden_weight_loss', 'diabete'})",frozenset({'polydipsia'}),0.251923077,0.813664596,1.81590382
+"frozenset({'sudden_weight_loss', 'polydipsia', 'diabete'})",frozenset({'polyuria'}),0.251923077,0.897260274,1.80843156
+"frozenset({'polyuria', 'sudden_weight_loss', 'polydipsia'})",frozenset({'diabete'}),0.251923077,1,1.625
+"frozenset({'sudden_weight_loss', 'polydipsia'})","frozenset({'polyuria', 'diabete'})",0.251923077,0.879194631,1.881404148
+"frozenset({'polyuria', 'polyphagia', 'diabete'})",frozenset({'polydipsia'}),0.25,0.833333333,1.859799714
+"frozenset({'polyphagia', 'polydipsia', 'diabete'})",frozenset({'polyuria'}),0.25,0.890410959,1.794626739
+"frozenset({'polyuria', 'polyphagia', 'polydipsia'})",frozenset({'diabete'}),0.25,1,1.625
+"frozenset({'polyphagia', 'polydipsia'})","frozenset({'polyuria', 'diabete'})",0.25,0.884353741,1.89244422
+"frozenset({'polyuria', 'weakness', 'diabete'})",frozenset({'polydipsia'}),0.298076923,0.870786517,1.943386218
+"frozenset({'polyuria', 'polydipsia', 'diabete'})",frozenset({'weakness'}),0.298076923,0.803108808,1.36923469
+"frozenset({'polydipsia', 'weakness', 'diabete'})",frozenset({'polyuria'}),0.298076923,0.885714286,1.785160576
+"frozenset({'polyuria', 'weakness', 'polydipsia'})",frozenset({'diabete'}),0.298076923,1,1.625
+"frozenset({'polyuria', 'weakness'})","frozenset({'polydipsia', 'diabete'})",0.298076923,0.837837838,1.936336336
+"frozenset({'polyuria', 'polydipsia'})","frozenset({'weakness', 'diabete'})",0.298076923,0.803108808,1.915672387
+"frozenset({'weakness', 'polydipsia'})","frozenset({'polyuria', 'diabete'})",0.298076923,0.865921788,1.853001356
+"frozenset({'polyuria', 'partial_paresis', 'diabete'})",frozenset({'polydipsia'}),0.269230769,0.869565217,1.940660571
+"frozenset({'polydipsia', 'partial_paresis', 'diabete'})",frozenset({'polyuria'}),0.269230769,0.91503268,1.844251913
+"frozenset({'polyuria', 'partial_paresis', 'polydipsia'})",frozenset({'diabete'}),0.269230769,1,1.625
+"frozenset({'weakness', 'partial_paresis', 'diabete'})",frozenset({'polydipsia'}),0.253846154,0.897959184,2.004029079
+"frozenset({'polydipsia', 'partial_paresis', 'diabete'})",frozenset({'weakness'}),0.253846154,0.862745098,1.470909675
+"frozenset({'weakness', 'partial_paresis', 'polydipsia'})",frozenset({'diabete'}),0.253846154,0.977777778,1.588888889
+"frozenset({'partial_paresis', 'polydipsia'})","frozenset({'weakness', 'diabete'})",0.253846154,0.840764331,2.0054929
+"frozenset({'polyuria', 'weakness', 'partial_paresis'})",frozenset({'diabete'}),0.25,1,1.625
+"frozenset({'polyuria', 'partial_paresis', 'diabete'})",frozenset({'weakness'}),0.25,0.807453416,1.37664189
+"frozenset({'weakness', 'partial_paresis', 'diabete'})",frozenset({'polyuria'}),0.25,0.884353741,1.782418394
+"frozenset({'polyuria', 'partial_paresis'})","frozenset({'polydipsia', 'diabete'})",0.269230769,0.833333333,1.925925926
+"frozenset({'partial_paresis', 'polydipsia'})","frozenset({'polyuria', 'diabete'})",0.269230769,0.891719745,1.908206862
